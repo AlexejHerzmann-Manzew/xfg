@@ -1,0 +1,5 @@
+simpleParameter = Some value. It's "XFG-notation".
+integerParameter = 1337
+smartParameter{
+	subparameter = Lol
+}
